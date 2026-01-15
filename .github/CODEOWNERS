@@ -1,3 +1,6 @@
 * @RafalKorepta @alejandroEsc @chrisseto
 
 *.md @JakeSCahill @RafalKorepta @alejandroEsc @chrisseto
+
+# Protect .github/agents folder for GitHub Copilot agents
+/.github/agents/ @RafalKorepta
